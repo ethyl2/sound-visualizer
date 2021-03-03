@@ -1,4 +1,4 @@
-# 🎵 Song Visualizer Using p5.js 🎵
+# 🎵 Sound Visualizer Using p5.js 🎵
 
 I started this project while watching Lambda School's 'mini bootcamp' : https://youtu.be/o1kGyZJFRiE
 
