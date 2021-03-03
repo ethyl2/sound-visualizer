@@ -1,5 +1,7 @@
 # 🎵 Sound Visualizer Using p5.js 🎵
 
+Deployed site: https://ethyl2.github.io/sound-visualizer/
+
 I started this project while watching Lambda School's 'mini bootcamp' : https://youtu.be/o1kGyZJFRiE
 
 and expanded on it, adding the ability to click on multiple circles, displaying random colors and using multiple sound files.
